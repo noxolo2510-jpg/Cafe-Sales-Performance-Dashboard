@@ -62,3 +62,4 @@ The dataset contained missing or Unknown entries in several fields, including It
 Project Objective
 
 To demonstrate practical Excel data analysis skills by transforming raw cafe sales data into an interactive dashboard that supports business decision-making.
+<img width="967" height="762" alt="image" src="https://github.com/user-attachments/assets/aafa3a04-270c-4f86-8a71-ebeda6eada98" />
